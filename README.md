@@ -240,16 +240,6 @@ Navigate your browser to **`http://localhost:4200`**.
 > **Note:** The frontend features resilient mock/demo fallback data so every screen, chart, and Kanban board renders completely even before connecting to a live database.
 
 ---
-
-## 🔐 Default Credentials (Local Dev / Seed Data)
-
-| Role | Email | Password | Scope |
-|---|---|---|---|
-| **Super Administrator** | `admin@crm.local` | `Password123!` | All 43 granular permissions & full system governance |
-| **Sales Director** | `elena@crm.local` | `Password123!` | Sales pipeline, team quotas, and revenue reporting |
-| **Senior AE** | `marcus@crm.local` | `Password123!` | Opportunities, customers, and deal closing |
-| **Support Lead** | `sarah@crm.local` | `Password123!` | Contacts, tickets, tasks, and client communications |
-
 ---
 
 ## 📄 License
