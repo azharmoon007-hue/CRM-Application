@@ -1,0 +1,41 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE & Editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project
+.factorypath
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+# Frontend (Angular / Node)
+crm-frontend/node_modules/
+crm-frontend/dist/
+crm-frontend/.angular/
+crm-frontend/out-tsc/
+crm-frontend/bazel-out/
+crm-frontend/npm-debug.log*
+crm-frontend/yarn-debug.log*
+crm-frontend/yarn-error.log*
+crm-frontend/.sass-cache/
+crm-frontend/coverage/
+
+# Backend (Java / Spring Boot / Maven)
+crm-backend/target/
+crm-backend/*.class
+crm-backend/uploads/
+crm-backend/.env
+
+# Scratch and Temporary files
+/tmp/
